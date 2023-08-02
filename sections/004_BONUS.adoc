@@ -24,3 +24,5 @@ Voici un tableau comparatif, regarder la vitesse de déplacement du curseur :
 
 * https://support.apple.com/fr-fr/guide/mac-help/mchl0311bdb4/mac#:~:text=Vous%20pouvez%20d%C3%A9terminer%20combien%20de,faire%20d%C3%A9filer%20vers%20le%20bas[Tuto sur MAC].
 * https://help.ubuntu.com/stable/ubuntu-help/keyboard-repeat-keys.html.fr#:~:text=Cliquez%20sur%20Param%C3%A8tres.,r%C3%A9p%C3%A9tition%20en%20basculant%20l'interrupteur[Tuto sur Ubuntu] (ou sinon en CLI avec https://wiki.gentoo.org/wiki/Set_Keyboard_Repeat_Delay_and_Rate[xset]).
+
+WARNING: Il faut tester plusieurs configurations pour trouver celle qui vous convient, la vitesse peut surprendre au début.
