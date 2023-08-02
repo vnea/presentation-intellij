@@ -2,7 +2,7 @@
 
 Cette documentation a pour but de donner des astuces sur l'utilisation d'IntelliJ pour gagner en productivité.
 
-Le but final est *de faire le maximum d'actions au clavier*.
+Le but final est *d'arrêter d'utiliser la souris de faire le maximum d'actions au clavier*.
 
 Voici les différentes sections :
 
