@@ -1,109 +1,12 @@
 = Présentation d'IntelliJ
-:sectnums:
 
-== Général
+Cette documentation a pour but de donner des astuces sur l'utilisation d'IntelliJ pour gagner en productivité.
 
-* Installer IntelliJ avec https://www.jetbrains.com/toolbox-app/[JetBrains Toolbox App] :
-- permet d'installer n'importe quel outil JetBrains.
-- facilite l'installation des mises à jour.
+Le but final est *de faire le maximum d'actions au clavier*.
 
-* Liste des shortcuts : `Help` -> `Keyboard Shortcuts PDF`.
+Voici les différentes sections :
 
-== Plugins
-:sectnums!:
-
-=== https://plugins.jetbrains.com/plugin/6149-shifter[Shifter]
-
-Alterner entre les différentes cases (kebab-case <--> snake_case <--> camelCase).
-
-image::assets/img/demo-shifter.gif[]
-
-=== https://plugins.jetbrains.com/plugin/7475-tab-shifter[Tab Shifter]
-
-Re-sizer les tabs avec le clavier.
-
-image::assets/img/demo-tab-shifter.gif[]
-
-=== https://plugins.jetbrains.com/plugin/7086-acejump[AceJump]
-
-Jumper sur du texte.
-
-image::assets/img/demo-ace-jump.gif[]
-
-=== https://plugins.jetbrains.com/plugin/7345-presentation-assistant[Presentation Assistant]
-
-Afficher une notification de l'action + shortcut pour chaque action.
-
-image::assets/img/demo-presentation-assitant.gif[]
-
-=== https://plugins.jetbrains.com/plugin/9792-key-promoter-x[Key Promoter X]
-
-Afficher une notification quand un shortcut n'est pas utilisé.
-
-image::assets/img/demo-key-promoter-x.png[]
-
-=== https://plugins.jetbrains.com/plugin/7495--ignore[.ignore]
-
-Afficher une bannière quand on édite un fichier présent dans le `.gitignore`.
-
-image::assets/img/demo-ignore.png[]
-
-=== https://plugins.jetbrains.com/plugin/8183-gitlink[GitLink]
-
-Ouvrir dans un navigateur l'URL du repository distant du fichier courant, utile pour partager le lien aux autres.
-
-image::assets/img/demo-git-link.gif[]
-
-=== https://plugins.jetbrains.com/plugin/10650-json-parser[Json Parser]
-
-Formatter une JSON string.
-
-image::assets/img/demo-json-parser.gif[]
-
-=== https://plugins.jetbrains.com/plugin/164-ideavim[IdeaVim]
-
-Pour avoir le même mode d'édition que Vim : les modes normal/insert/visual, les motion keys, etc.
-
-=== https://plugins.jetbrains.com/plugin/8320-uuid-generator[UUID Generator]
-
-Générer un UUID, utile quand on écrit des tests.
-
-image::assets/img/demo-uuid-generator.gif[]
-
-=== https://plugins.jetbrains.com/plugin/12896-rainbow-csv[Rainbow CSV]
-
-Ajouter de la couleur pour les fichiers CSV.
-
-image::assets/img/demo-rainbow-csv.gif[]
-
-=== https://plugins.jetbrains.com/plugin/7125-grep-console[Grep Console]
-
-Mettre des couleurs custom dans les logs.
-
-image::assets/img/demo-grep-console.gif[]
-
-=== https://plugins.jetbrains.com/plugin/10080-rainbow-brackets[Rainbow Brackets]
-
-Accolades, parenthèses, etc. colorisées.
-
-image::assets/img/rainbow-brackets.png[]
-
-:sectnums:
-
-== Bonus : changer la fréquence de répétition d’une touche
-
-Permet d'attendre moins longtemps le déclenchement d'une route qui se répète, très utile pour naviguer dans un fichier.
-
-Voici un tableau comparatif, regarder la vitesse de déplacement du curseur :
-
-[cols="a,a"]
-|===
-|Configuration par défaut | Configuration optimisée
-
-|image::assets/img/demo-default-repeat-speed.gif[]
-|image::assets/img/demo-faster-repeat-speed.gif[]
-
-|===
-
-* https://support.apple.com/fr-fr/guide/mac-help/mchl0311bdb4/mac#:~:text=Vous%20pouvez%20d%C3%A9terminer%20combien%20de,faire%20d%C3%A9filer%20vers%20le%20bas[Tuto sur MAC].
-* https://help.ubuntu.com/stable/ubuntu-help/keyboard-repeat-keys.html.fr#:~:text=Cliquez%20sur%20Param%C3%A8tres.,r%C3%A9p%C3%A9tition%20en%20basculant%20l'interrupteur[Tuto sur Ubuntu] (ou sinon en CLI avec https://wiki.gentoo.org/wiki/Set_Keyboard_Repeat_Delay_and_Rate[xset]).
+* link:sections/001_GENERAL_TIPS.adoc[Tips généraux].
+* link:sections/002_PLUGINS.adoc[Plugins].
+* link:sections/003_SHORTCUTS.adoc[Shortcuts].
+* link:sections/004_BONUS.adoc[Bonus] (pas forcément lié à IntelliJ).

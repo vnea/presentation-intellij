@@ -1,0 +1,15 @@
+= Tips généraux
+:sectnums:
+:toc:
+:toc-title: Sommaire
+
+== Introduction
+
+Des tips généraux et pas forcément connus sur IntelliJ.
+
+== Comment installer IntelliJ ?
+
+Avec l'outil avec https://www.jetbrains.com/toolbox-app/[JetBrains Toolbox App] qui :
+
+* Permet d'installer n'importe quel outil JetBrains.
+* De faciliter l'installation des mises à jour en migrant automatiquement la configuration pour les versions majeures.

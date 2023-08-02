@@ -1,0 +1,86 @@
+= Plugins
+:sectnums:
+:toc:
+:toc-title: Sommaire
+
+== Introduction
+
+Voici une liste de plugins que j'utilise.
+
+== https://plugins.jetbrains.com/plugin/6149-shifter[Shifter]
+
+Alterner entre les différentes cases (kebab-case <--> snake_case <--> camelCase).
+
+image::../assets/img/demo-shifter.gif[]
+
+== https://plugins.jetbrains.com/plugin/7475-tab-shifter[Tab Shifter]
+
+Re-sizer les tabs avec le clavier.
+
+image::../assets/img/demo-tab-shifter.gif[]
+
+== https://plugins.jetbrains.com/plugin/7086-acejump[AceJump]
+
+Jumper sur du texte.
+
+image::../assets/img/demo-ace-jump.gif[]
+
+== https://plugins.jetbrains.com/plugin/7345-presentation-assistant[Presentation Assistant]
+
+Afficher une notification de l'action + shortcut pour chaque action.
+
+image::../assets/img/demo-presentation-assitant.gif[]
+
+== https://plugins.jetbrains.com/plugin/9792-key-promoter-x[Key Promoter X]
+
+Afficher une notification quand un shortcut n'est pas utilisé.
+
+image::../assets/img/demo-key-promoter-x.png[]
+
+== https://plugins.jetbrains.com/plugin/7495--ignore[.ignore]
+
+Afficher une bannière quand on édite un fichier présent dans le `.gitignore`.
+
+image::../assets/img/demo-ignore.png[]
+
+== https://plugins.jetbrains.com/plugin/8183-gitlink[GitLink]
+
+Ouvrir dans un navigateur l'URL du repository distant du fichier courant, utile pour partager le lien aux autres.
+
+image::../assets/img/demo-git-link.gif[]
+
+== https://plugins.jetbrains.com/plugin/10650-json-parser[Json Parser]
+
+Formatter une JSON string.
+
+image::../assets/img/demo-json-parser.gif[]
+
+== https://plugins.jetbrains.com/plugin/164-ideavim[IdeaVim]
+
+Pour avoir le même mode d'édition que Vim : les modes normal/insert/visual, les motion keys, etc.
+
+== https://plugins.jetbrains.com/plugin/8320-uuid-generator[UUID Generator]
+
+Générer un UUID, utile quand on écrit des tests.
+
+image::../assets/img/demo-uuid-generator.gif[]
+
+== https://plugins.jetbrains.com/plugin/12896-rainbow-csv[Rainbow CSV]
+
+Ajouter de la couleur pour les fichiers CSV.
+
+image::../assets/img/demo-rainbow-csv.gif[]
+
+== https://plugins.jetbrains.com/plugin/7125-grep-console[Grep Console]
+
+Mettre des couleurs custom dans les logs.
+
+image::../assets/img/demo-grep-console.gif[]
+
+== https://plugins.jetbrains.com/plugin/10080-rainbow-brackets[Rainbow Brackets]
+
+Accolades, parenthèses, etc. colorisées.
+
+image::../assets/img/rainbow-brackets.png[]
+
+:sectnums:

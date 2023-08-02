@@ -1,0 +1,8 @@
+= Shortcuts
+:sectnums:
+:toc:
+:toc-title: Sommaire
+
+== Avoir la liste des shortcuts
+
+Depuis IntelliJ : `Help` -> `Keyboard Shortcuts PDF`.
