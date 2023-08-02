@@ -3,6 +3,10 @@
 :toc:
 :toc-title: Sommaire
 
+== Introduction
+
+Pour apprendre les shortcuts les plus utiles, c'est par ici.
+
 == Avoir la liste des shortcuts
 
 Depuis IntelliJ : `Help` -> `Keyboard Shortcuts PDF`.
