@@ -5,7 +5,7 @@
 
 == Introduction
 
-Voici une liste de plugins que j'utilise.
+Voici une liste des plugins que je trouve utiles.
 
 == https://plugins.jetbrains.com/plugin/6149-shifter[Shifter]
 
@@ -83,4 +83,8 @@ Accolades, parenthèses, etc. colorisées.
 
 image::../assets/img/rainbow-brackets.png[]
 
-:sectnums:
+== https://plugins.jetbrains.com/plugin/4954-pomodoro-tm[Pomodoro-tm]
+
+Un Pomodoro configurable dans la barre de notification, utile pour le pair/mob programming.
+
+image::../assets/img/demo-pomodoro-tm.png[]
