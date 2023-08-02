@@ -15,7 +15,7 @@ Voici un tableau comparatif, regarder la vitesse de déplacement du curseur :
 
 [cols="a,a"]
 |===
-|Configuration par défaut | Configuration optimisée
+|Configuration par défaut|Configuration optimisée
 
 |image::../assets/img/demo-default-repeat-speed.gif[]
 |image::../assets/img/demo-faster-repeat-speed.gif[]

@@ -13,3 +13,36 @@ Avec l'outil avec https://www.jetbrains.com/toolbox-app/[JetBrains Toolbox App] 
 
 * Permet d'installer n'importe quel outil JetBrains.
 * De faciliter l'installation des mises à jour en migrant automatiquement la configuration pour les versions majeures.
+
+== Se déplacer dans le texte avec l'option CamelHumps
+:sectnums!:
+
+=== Contexte
+
+Quand on travaille sur du code, est souvent confronté a travaillé avec du texte :
+
+* En camelCase.
+* En snake_case.
+* En kebab-case.
+
+On veut parfois se déplacer de "CamelHumps" en "CamelHumps" pour éditer plus facilement.
+
+=== Démo - Suppression du mot `en` sans vs avec CamelHumps
+
+[cols="a,a"]
+|===
+|Sans CamelHumps|Avec CamelHumps
+
+|image::../assets/img/demo-without-camel-humps.gif[]
+|image::../assets/img/demo-with-camel-humps.gif[]
+|===
+
+Remarques :
+
+* Dans la version avec CamelHumps, on se déplace avec `CTRL + <-` / `CTRL + ->` et on sélectionne avec `SHIFT + CTRL + <-` / `SHIFT + CTRL + ->`.
+* Dans la version avec CamelHumps, cela demande d'appuyer sur plus de touches quand on veut naviguer de mot en mot.
+* Dans la version avec CamelHumps, il faut s'habituer, c'est un peu déroutant au début.
+
+=== Activer l'option
+
+image::../assets/img/enable-camel-humps.png[]
