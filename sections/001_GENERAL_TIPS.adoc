@@ -43,6 +43,6 @@ Remarques :
 * Dans la version avec CamelHumps, cela demande d'appuyer sur plus de touches quand on veut naviguer de mot en mot.
 * Dans la version avec CamelHumps, il faut s'habituer, c'est un peu déroutant au début.
 
-=== Activer l'option
+=== Comment faire ?
 
 image::../assets/img/enable-camel-humps.png[]
