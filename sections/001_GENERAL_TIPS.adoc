@@ -27,7 +27,7 @@ Quand on travaille sur du code, est souvent confronté a travaillé avec du text
 
 On veut parfois se déplacer de "CamelHumps" en "CamelHumps" pour éditer plus facilement.
 
-=== Démo - Suppression du mot `en` sans vs avec CamelHumps
+=== Démo - Suppression du mot `en`
 
 [cols="a,a"]
 |===
@@ -45,4 +45,32 @@ Remarques :
 
 === Comment faire ?
 
-image::../assets/img/enable-camel-humps.png[]
+image::../assets/img/how-to-enable-camel-humps.png[]
+
+:sectnums:
+
+== Diminuer le délai d'apparition des tooltips
+:sectnums!:
+
+=== Contexte
+
+IntelliJ met certains bout de code en surbrillance.
+En passant la souris sur le mot, IntelliJ propose des suggestions/remarques/fix dans une tooltip.
+
+Quand on a plusieurs erreurs à regarder, c'est pratique de devoir attendre moins longtemps.
+
+=== Démo
+
+[cols="a,a"]
+|===
+|Valeur par défaut|Valeur optimisée
+
+|image::../assets/img/demo-default-delay-tooltip.gif[]
+|image::../assets/img/demo-low-delay-tooltip.gif[]
+|===
+
+=== Comment faire ?
+
+image::../assets/img/how-to-change-tooltip-delay.png[]
+
+:sectnums:

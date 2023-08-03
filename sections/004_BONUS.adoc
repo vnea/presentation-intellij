@@ -16,11 +16,11 @@ Quand on reste appuyé sur une touche, il y a un délai avant que la répétitio
 
 Cela peut-être ennuyant quand on veut naviguer dans un fichier.
 
-=== Démo - Vitesse avec des délais de déclenchement différents
+=== Démo
 
 [cols="a,a"]
 |===
-|Configuration par défaut|Configuration "optimisée" (=pour moi)
+|Valeur par défaut|Valeur optimisée
 
 |image::../assets/img/demo-default-repeat-speed.gif[]
 |image::../assets/img/demo-faster-repeat-speed.gif[]
