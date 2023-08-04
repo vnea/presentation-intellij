@@ -14,7 +14,7 @@ Des bonus car les bonus c'est bien !
 
 Quand on reste appuyé sur une touche, il y a un délai avant que la répétition de touche se déclenche.
 
-Cela peut-être ennuyant quand on veut naviguer dans un fichier.
+Cela peut être ennuyant quand on veut naviguer dans un fichier.
 
 === Démo
 
@@ -29,7 +29,8 @@ Cela peut-être ennuyant quand on veut naviguer dans un fichier.
 
 === Comment faire ?
 
-* https://support.apple.com/fr-fr/guide/mac-help/mchl0311bdb4/mac#:~:text=Vous%20pouvez%20d%C3%A9terminer%20combien%20de,faire%20d%C3%A9filer%20vers%20le%20bas[Tuto sur MAC].
-* https://help.ubuntu.com/stable/ubuntu-help/keyboard-repeat-keys.html.fr#:~:text=Cliquez%20sur%20Param%C3%A8tres.,r%C3%A9p%C3%A9tition%20en%20basculant%20l'interrupteur[Tuto sur Ubuntu] (ou sinon en CLI avec https://wiki.gentoo.org/wiki/Set_Keyboard_Repeat_Delay_and_Rate[xset]).
+* https://support.apple.com/fr-fr/guide/mac-help/mchl0311bdb4/mac#:~:text=Vous%20pouvez%20d%C3%A9terminer%20combien%20de,faire%20d%C3%A9filer%20vers%20le%20bas[Tuto pour MAC] (ou sinon en CLI avec https://mac-key-repeat.zaymon.dev[default]).
+* https://help.ubuntu.com/stable/ubuntu-help/keyboard-repeat-keys.html.fr#:~:text=Cliquez%20sur%20Param%C3%A8tres.,r%C3%A9p%C3%A9tition%20en%20basculant%20l'interrupteur[Tuto pour Ubuntu] (ou sinon en CLI avec https://wiki.gentoo.org/wiki/Set_Keyboard_Repeat_Delay_and_Rate[xset]).
+* https://windows.atsit.in/fr/8438[Tuto pour Windows].
 
 WARNING: Il faut tester plusieurs configurations pour trouver celle qui vous convient, la vitesse peut surprendre au début.

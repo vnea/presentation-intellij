@@ -54,7 +54,7 @@ image::../assets/img/how-to-enable-camel-humps.png[]
 
 === Contexte
 
-IntelliJ met certains bout de code en surbrillance.
+IntelliJ met certains bouts de code en surbrillance.
 En passant la souris sur le mot, IntelliJ propose des suggestions/remarques/fix dans une tooltip.
 
 Quand on a plusieurs erreurs à regarder, c'est pratique de devoir attendre moins longtemps.
